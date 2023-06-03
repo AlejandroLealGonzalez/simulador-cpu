@@ -15,6 +15,10 @@ input {
     @apply ml-52 relative z-10;
 }
 
+.r2{
+    position: relative;
+    top:-25px;
+}
 
 .rs {
     @apply absolute transform translate-y-28 w-24;
